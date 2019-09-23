@@ -30,3 +30,4 @@ public class LessThanThreeDigits {
 		System.out.println(solution(beg, end));
 		
 	}
+}
